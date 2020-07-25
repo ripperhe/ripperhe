@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+em... 正在开发 Bob 0.5.0.. 
+
 <img src="https://github-readme-stats.vercel.app/api?username=ripperhe&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
 
 <!--

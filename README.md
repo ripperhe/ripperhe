@@ -2,7 +2,7 @@
 
 iOS / macOS 独立开发者。
 
-#### <img src="assets/bob-icon.png" width="40" align="center" alt=""> [Bob](https://bobtranslate.com) · macOS 翻译 & OCR 软件
+#### <img src="assets/bob-icon.png" width="40" align="center" alt=""> Bob · macOS 翻译 & OCR 软件
 
 - ⚡ **随手就翻**：划词、截图、输入翻译，支持 PopClip、AppleScript 调用
 - 🖼️ **原图翻译**：截个图，译文直接贴回原图上

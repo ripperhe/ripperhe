@@ -1,23 +1,19 @@
-### 👋 Hi there, I’m the developer of [Bob](https://github.com/ripperhe/Bob)
+### 你好，我是 ripper 👋
 
-🚀 **Bob** 是一款专为 macOS 打造的翻译与 OCR 工具，在任何应用中都能即用即走，简单、快捷、高效！
+iOS / macOS 独立开发者。
 
-#### 🌟 核心功能
+#### <img src="assets/bob-icon.png" width="40" align="center" alt=""> [Bob](https://bobtranslate.com) · macOS 翻译 & OCR 软件
 
-- **翻译功能**：划词翻译、截图翻译、输入翻译、自动识别语种、支持多开、自定义插件、AppleScript / PopClip 调用
-- **OCR 识别**：截图 OCR、访达选图 OCR、离线识别、二维码识别、智能分段、自动复制
-- **语音合成**：支持多种平台语音播报，适合学习和辅助阅读
+- ⚡ **随手就翻**：划词、截图、输入翻译，支持 PopClip、AppleScript 调用
+- 🖼️ **原图翻译**：截个图，译文直接贴回原图上
+- 🤫 **静默翻译**：在微信输入框打完字，一键替换成译文，不弹窗
+- 🔀 **翻译多开**：DeepL、OpenAI、Claude 等 30+ 服务，最多 12 个同时对比
+- 📝 **Markdown 渲染**：AI 译文里的表格、图片、流程图直接显示
+- 🔍 **离线 OCR**：截图即识别，智能分段，二维码也能认
+- 🧩 **插件系统**：想用的服务没有？写个插件自己接
 
-#### 🔗 支持服务平台
+<a href="https://apps.apple.com/cn/app/id1630034110"><img src="assets/mac-app-store.svg" height="28" alt="Download on the Mac App Store" align="center"></a>&nbsp; <a href="https://bobtranslate.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-badge-dark.svg"><img src="assets/website-badge-light.svg" height="28" alt="访问官网 bobtranslate.com" align="center"></picture></a>&nbsp; <a href="https://github.com/ripperhe/Bob"><img src="https://img.shields.io/github/stars/ripperhe/Bob?style=social" alt="GitHub stars" align="center"></a>
 
-- **翻译服务**：系统翻译、DeepL、OpenAI、百度、有道、腾讯、阿里、Google、微软、Amazon、DeepSeek、OpenAI、Gemini、Claude 等
-- **OCR 服务**：离线识别、百度、腾讯、火山、有道、Google 等
-- **语音合成**：离线语音、火山、腾讯、Google、微软等平台
+📮 扫码关注公众号「真的龙卷风」，第一时间获取 Bob 的更新动态和使用技巧
 
-[![Download on the Mac App Store](https://cdn.ripperhe.com/oss/master/2022/0626/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/cn/app/id1630034110#?platform=mac)
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ripperhe&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
-
-<a href="https://github.com/ripperhe/Bob">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ripperhe&repo=bob" />
-</a>
+<img src="assets/wechat-qr.png" width="96" alt="公众号「真的龙卷风」二维码">
